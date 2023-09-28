@@ -2,7 +2,7 @@ Config = {}
 
 Config.Locale = 'br'
 
-Config.serverLogo = 'https://i.imgur.com/AcgDL9f.png'
+Config.serverLogo = 'https://cdn.discordapp.com/attachments/932950914178875402/932967397579710494/Logo13.png?ex=6516bc19&is=65156a99&hm=0b461ec56fbf2b801e75d93495552e52d6cbcb427d5bf1e9a112fad65226ee4d&'
 
 Config.font = {
 	name 	= 'Montserrat',
@@ -34,9 +34,9 @@ Config.vehicle = {
 	maxSpeed = 240,
 
 	keys = {
-		seatbelt 	= 'K',
-		cruiser		= 'CAPS',
-		signalLeft	= 'LEFT',
+		seatbelt 	= 'Q',
+		cruiser		= 'Z,
+		signalLeft	= '',
 		signalRight	= 'RIGHT',
 		signalBoth	= 'DOWN',
 	}
@@ -64,5 +64,5 @@ Config.ui = {
 
 	showMinimap			= false,
 
-	showWeapons			= true,	
+	showWeapons			= false,	
 }
